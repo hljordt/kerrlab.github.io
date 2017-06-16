@@ -1,0 +1,12 @@
+---
+layout: default
+active: projects
+---
+<div class="container-fluid">
+	<h2>Current Projects</h2>
+	{% assign current_projects = site.projects | sort: "sort_order" | where: "current", true %}
+	{% for project in current_projects %}
+		<p> {{project.title}} </p>
+		<p> {{project.project_url}} </p>
+	{% endfor %}
+</div>
