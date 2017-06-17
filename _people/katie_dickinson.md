@@ -11,4 +11,5 @@ My research focuses on the bacterium Pseudomonas aeruginosa which is an opportun
 
 See here for a BEACON blog post on my work using microbes to explore public good production."
 sort_order: 1
+short_blurb: Researcher, Lab Manager, Administrator
 ---
