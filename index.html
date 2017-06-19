@@ -30,8 +30,9 @@ active: home
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-        {% include about_the_lab.html %}
-    </div>
+{% capture my_include %}{% include about_the_lab.markdown %}{% endcapture %}
+{{ my_include | markdownify }}
+      </div>
 
     <div class="col-md-6">
         <a class="twitter-timeline" href="https://twitter.com/hashtag/KerrLab" data-widget-id="618298940207726592">#KerrLab Tweets</a>
