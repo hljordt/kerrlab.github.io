@@ -1,4 +1,4 @@
-##About The Kerr Lab
+## About The Kerr Lab
 Welcome to the Kerr Lab at the University of Washington. We use a combination of mathematical analysis, computer simulation, and laboratory experiments with microbes to explore theoretical and empirical angles on topics in ecology, evolutionary biology, and the philosophy of biology. Some areas that interest us currently include:
 
 
