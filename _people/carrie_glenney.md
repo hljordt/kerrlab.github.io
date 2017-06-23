@@ -1,6 +1,6 @@
 ---
 name: Carrie Glenney
-role: Masters
+role: Grad
 current: false
 #email: "cglenney@uw.edu"
 twitter: carrieglenney
