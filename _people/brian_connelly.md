@@ -1,6 +1,6 @@
 ---
 name: Brian Connelly
-role: Postdoc
+role: Postdoc Extraordinaire
 current: true
 website: "http://bconnelly.net/"
 email: "bdc@bconnelly.net"
